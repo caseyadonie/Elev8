@@ -1,0 +1,9 @@
+C:\Users\oibiang\source\repos\CalculatorElev8\bin\Debug\CalculatorElev8.exe.config
+C:\Users\oibiang\source\repos\CalculatorElev8\bin\Debug\CalculatorElev8.exe
+C:\Users\oibiang\source\repos\CalculatorElev8\bin\Debug\CalculatorElev8.pdb
+C:\Users\oibiang\source\repos\CalculatorElev8\obj\Debug\CalculatorElev8.Properties.Resources.resources
+C:\Users\oibiang\source\repos\CalculatorElev8\obj\Debug\CalculatorElev8.csproj.GenerateResource.cache
+C:\Users\oibiang\source\repos\CalculatorElev8\obj\Debug\CalculatorElev8.csproj.CoreCompileInputs.cache
+C:\Users\oibiang\source\repos\CalculatorElev8\obj\Debug\CalculatorElev8.exe
+C:\Users\oibiang\source\repos\CalculatorElev8\obj\Debug\CalculatorElev8.pdb
+C:\Users\oibiang\source\repos\CalculatorElev8\obj\Debug\CalculatorElev8.Form1.resources
